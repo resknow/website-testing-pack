@@ -1,0 +1,14 @@
+{
+	"name": "website-testing-pack",
+	"version": "0.1.0",
+	"description": "Cypress tests for testing websites after making changes",
+	"main": "index.js",
+	"scripts": {
+		"test": "npx cypress open"
+	},
+	"author": "Chris Galbraith",
+	"license": "MIT",
+	"dependencies": {
+		"cypress": "^4.10.0"
+	}
+}
